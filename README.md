@@ -36,19 +36,7 @@ Full dataset training pushes accuracy above 99.5%.
 
 ---
 
-## Quickstart
-
-```bash
-git clone https://github.com/your-username/mnist-cnn
-cd mnist-cnn
-pip install -r requirements.txt
-jupyter notebook mnist_cnn.ipynb
-```
-
 The MNIST dataset downloads automatically on first run (~11 MB).
-
----
-
 ## Project structure
 
 ```
